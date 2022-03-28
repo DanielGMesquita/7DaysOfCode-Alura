@@ -1,0 +1,24 @@
+/* estilo do botão */
+#botao {
+    font-size:100px;
+    text-align: center;
+    font-weight: bold;
+    display:block; /* transforma o botão em bloco */
+    margin: 25% auto; /*alinha centralmente*/
+}
+
+/* estilo do header */
+header {
+    font-size:40px;
+    color:#7cc0ff;
+    background-color: #491717;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background-image: url("fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
