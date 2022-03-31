@@ -47,7 +47,7 @@ function inicioJogo()
                 var escolha4 = prompt("Você gostaria de conhecer outras tecnologias? Se sim, digite 1. Se não, digite 2:");
             }
         }
-        alert("As tecnologias escolhidas foram: "+estudos+"\nFim de jogo!\nVocê será direcionado para a página da Alura para mais informações.");
-        window.location.href = "https://www.alura.com.br/";
+        alert("As tecnologias escolhidas foram: "+estudos+"\nFim de jogo!\nVocê será direcionado para um artigo com mais informções.");
+        window.location.href = "https://blog.impulso.network/guia-roadmap-para-iniciar-em-uma-linguagem-framework/";
     }
 }
